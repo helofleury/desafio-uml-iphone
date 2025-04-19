@@ -62,9 +62,9 @@ classDiagram
     Phone <|-- NavegadorInternet
 ```
 ## ◀ Vídeo Referência
-- [[Steve Jobs apresenta o iPhone]](https://www.youtube.com/watch?v=9ou608QQRq8 "Assistir ao lançamento completo")
+- [Steve Jobs apresenta o iPhone](https://www.youtube.com/watch?v=9ou608QQRq8 "Assistir ao lançamento completo")
 
 ## 📚 Ferramenta Utilizada
-- [[Mermaid]](https://www.mermaidchart.com/app/projects)
+- [Mermaid](https://www.mermaidchart.com/app/projects)
 
 
