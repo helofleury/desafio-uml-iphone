@@ -1,6 +1,8 @@
-# 📱 iPhone UML Diagram - Reprodutor Musical, Aparelho Telefônico e Navegador na Internet  
+# 📱 iPhone UML Diagram 
 
-Um diagrama UML moderno que representa as funcionalidades essenciais do **iPhone** inspirado no lançamento de 2007!  
+## 🎯 Objetivo do Projeto
+
+Este projeto visa capturar a essência inovadora do primeiro iPhone através de uma representação UML precisa, inspirada diretamente no marco histórico de seu lançamento. O diagrama reflete as três revoluções tecnológicas que Steve Jobs apresentou ao mundo em 9 de janeiro de 2007:
 
 ---
 
@@ -55,10 +57,10 @@ classDiagram
     Phone <|-- AparelhoTelefonico
     Phone <|-- NavegadorInternet
 ```
-## Vídeo Referência que inspirou esse Projeto
+## ▶️ Vídeo Referência que inspirou esse Projeto
 - [[Steve Jobs apresenta o iPhone]](https://www.youtube.com/watch?v=9ou608QQRq8 "Assistir ao lançamento completo")
 
-## 📚 Recursos Úteis
-- [[Ferramenta Mermaid]](https://www.mermaidchart.com/app/projects)
+## 📚 Ferramenta Utilizada
+- [[Mermaid]](https://www.mermaidchart.com/app/projects)
 
 
