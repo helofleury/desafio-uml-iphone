@@ -59,6 +59,6 @@ classDiagram
 [![Steve Jobs apresenta o iPhone]](https://www.youtube.com/watch?v=9ou608QQRq8 "Assistir ao lançamento completo")
 
 ## 📚 Recursos Úteis
-- [Mermaid.js Documentation](https://mermaid.js.org/) - Guia completo de sintaxe e exemplos
+- [Ferramenta Mermaid]([https://mermaid.js.org/](https://www.mermaidchart.com/app/projects))
 
 
