@@ -4,7 +4,6 @@
 
 Este projeto visa capturar a essência inovadora do primeiro iPhone através de uma representação UML precisa, inspirada diretamente no marco histórico de seu lançamento. O diagrama reflete as três revoluções tecnológicas que Steve Jobs apresentou ao mundo em 9 de janeiro de 2007:
 
----
 
 ## 🔍 Visão Geral do Diagrama  
 Este projeto modela três componentes principais do iPhone:  
