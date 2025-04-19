@@ -61,7 +61,7 @@ classDiagram
     Phone <|-- AparelhoTelefonico
     Phone <|-- NavegadorInternet
 ```
-## ▶️ Vídeo Referência que inspirou esse Projeto
+## ▶️ Vídeo Referência
 - [[Steve Jobs apresenta o iPhone]](https://www.youtube.com/watch?v=9ou608QQRq8 "Assistir ao lançamento completo")
 
 ## 📚 Ferramenta Utilizada
